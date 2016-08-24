@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-24T16:37:23.767Z'
+datePublished: '2016-08-24T16:57:07.535Z'
 sourcePath: _posts/2016-04-15-the-worlds-most-beautiful-hotel-pool-views.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.thrillist.com/travel/nation/best-hotel-pool-views-in-miami-hong-kong-new-york-mexico-and-the-caribbean/travel
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - pools
   - infinity
@@ -25,7 +23,7 @@ author:
   - name: '@mmeltrez'
     url: 'https://www.twitter.com/@mmeltrez'
     avatar: {}
-dateModified: '2016-08-24T16:37:22.953Z'
+dateModified: '2016-08-24T16:57:06.133Z'
 title: The World's Most Beautiful Hotel Pool Views
 app_links:
   - namespace: twitter
@@ -44,6 +42,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: the-worlds-most-beautiful-hotel-pool-views/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
