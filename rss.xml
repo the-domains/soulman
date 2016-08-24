@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Soulman]]></title>
-        <description><![CDATA[Soulman]]></description>
+        <title><![CDATA[Soulman's Web]]></title>
+        <description><![CDATA[Soulman's Web]]></description>
         <link>https://thegrid.ai/soulman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 16:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 22:14:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soulman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Find the lowest prices, compare all travel sites at once HOTEL DEALS Compare all Travel Sites in one simple search and Save up to 30% Search and compare prices from more than 1000 Airlines Search for Car</p><img src="http://cyprusbookings.com/wp-content/uploads/cyprus-ayia-napa-nissi-beach-rock.jpg"></article>]]></description>
+            <link>http://cyprusbookings.com/</link>
+            <guid isPermaLink="false">cf1e80e9-4dff-450f-b013-7fa8c7819d7a</guid>
+            <pubDate>Wed, 24 Aug 2016 22:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World's Most Beautiful Hotel Pool Views]]></title>
+            <description><![CDATA[<article><h1>The World's Most Beautiful Hotel Pool Views</h1><p>From an infinity pool on the African savannah to a rooftop number with a skyline shot of NYC, here are 18 of the sweetest hotel&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0e947140d59bed9fcf2eb93bbdd43d388790628.jpg"></article>]]></description>
+            <link>https://thegrid.ai/soulman/the-worlds-most-beautiful-hotel-pool-views/index.html</link>
+            <guid isPermaLink="false">6450b314-cf87-4208-a96c-ad919e2d7b8b</guid>
+            <pubDate>Wed, 24 Aug 2016 16:57:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Most Beautiful Mountains in the World]]></title>
             <description><![CDATA[<article><h1>The Most Beautiful Mountains in the World</h1><p>Because the odds are slim we'll ever strap on a pair of crampons and/or buy a "Teamwork" Successories poster, we thought it'd be&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b496619db57b77afcb89aef920994ac6e50e5fe.jpg"></article>]]></description>
@@ -32,13 +46,6 @@
             <description><![CDATA[<article><h1>Airbnb's Coolest Tiny Houses in America</h1><p>Tiny homes are all the rage, so it makes perfect sense that tiny homes people list on Airbnb are also quite popular. And that's&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d4b7ed13c3092febbf108d16b78e9903c0f56ac.jpg"></article>]]></description>
             <link>https://www.thrillist.com/travel/nation/airbnbs-coolest-tiny-houses-in-america/travel</link>
             <guid isPermaLink="false">5385a117-0c1f-41b6-9890-f3e5897ef9bf</guid>
-            <pubDate>Wed, 24 Aug 2016 16:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World's Most Beautiful Hotel Pool Views]]></title>
-            <description><![CDATA[<article><h1>The World's Most Beautiful Hotel Pool Views</h1><p>From an infinity pool on the African savannah to a rooftop number with a skyline shot of NYC, here are 18 of the sweetest hotel&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0e947140d59bed9fcf2eb93bbdd43d388790628.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/travel/nation/best-hotel-pool-views-in-miami-hong-kong-new-york-mexico-and-the-caribbean/travel</link>
-            <guid isPermaLink="false">6450b314-cf87-4208-a96c-ad919e2d7b8b</guid>
             <pubDate>Wed, 24 Aug 2016 16:37:23 GMT</pubDate>
         </item>
     </channel>
