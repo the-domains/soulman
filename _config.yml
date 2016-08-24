@@ -1,4 +1,5 @@
-typography_spectrum: 0.24976961803622544
+layout_spectrum: 0.9714481323026121
+typography_spectrum: 0.25049410481005907
 color:
   brandStrength: 0.4373108202125877
   lightness: 0.7480660802684724
@@ -10,7 +11,6 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-layout_spectrum: 0.4328516498208046
 name: Soulman
 navigation:
   - name: The World's Most Beautiful Hotel Pool Views
